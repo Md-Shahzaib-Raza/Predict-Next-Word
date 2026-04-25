@@ -1,0 +1,4 @@
+myvenv/**/*
+.venv_tf/**/*
+.idea/**/*
+__pycache__/**/*
